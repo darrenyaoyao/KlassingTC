@@ -1,1 +1,68 @@
-{}
+{
+  "title": "Klassing - Build your live class and start selling",
+  "loading": "Loading...",
+  "submit": "Submit",
+  "response": "Thanks. We will reach out to you soon.",
+  "footer": "Milk Internet Inc・hello@klassing.com",
+  "backgroundImage": "background-image: url('images/hero_1.jpg');",
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "trial": "Request Access"
+  },
+  "otherLang": {
+    "name": "中文",
+    "link": "https://klassing.app/zh/"
+  },
+  "liveclass": {
+    "slogan": "Build your live class and start selling",
+    "description": "Share knowledge, interact with students, and monetize"
+  },
+  "smartclass": {
+    "slogan": "Extend your offline class to online",
+    "description": "Enroll students online, manage learning profiles, and educate remotely"
+  },
+  "limitless": "Anyplace, Anywhere, Anytime",
+  "livevideo": {
+    "title": "Live Video",
+    "description": "Engage with your students in real time with a video feed, chat, and more."
+  },
+  "liveaudio": {
+    "title": "Live Audio",
+    "description": "Audio works, too! Prepare to share knowledge by podcast-like experience."
+  },
+  "onlinematerial": {
+    "title": "Online Teaching Materials",
+    "description": "Let students access them wherever, whenever."
+  },
+  "classshop": {
+    "title": "Your own knowledge business",
+    "multimedia": {
+      "title": "Rich content",
+      "description": "Support live streaming, video, audio, photo and article."
+    },
+    "marketing": {
+      "title": "Powerful Marketing Tool",
+      "description": "Built-in tools that help you create, execute, and analyze digital marketing campaigns."
+    },
+    "analytics": {
+      "title": "Manage everything",
+      "description": "Gain the insights you need to grow."
+    }
+  },
+  "cloudclass": {
+    "title": "Offline to online classroom",
+    "enroll": {
+      "title": "Reach more students",
+      "description": "Through live streaming experience, enroll more potential customers."
+    },
+    "manage": {
+      "title": "Productive management tools",
+      "description": "Use a single dashboard to manage students, lessons, appointments, and payments anywhere you go."
+    },
+    "interact": {
+      "title": "Extended interaction",
+      "description": "Provide richer learning experience by online assignments, discussion and more."
+    }
+  }
+}

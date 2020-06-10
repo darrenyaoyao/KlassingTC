@@ -1,1 +1,68 @@
-{}
+{
+  "title": "Klassing - 一分鐘開始你的直播教室",
+  "loading": "載入中...",
+  "submit": "送出",
+  "response": "謝謝，我們會盡快跟你聯絡。",
+  "footer": "牛奶網路有限公司・02-29888528・hello@klassing.com",
+  "backgroundImage": "background-image: url('../images/hero_1.jpg');",
+  "nav": {
+    "home": "首頁",
+    "features": "功能",
+    "trial": "搶先試用"
+  },
+  "otherLang": {
+    "name": "English",
+    "link": "https://klassing.app/"
+  },
+  "liveclass": {
+    "slogan": "一分鐘開始<br />你的直播教室",
+    "description": "銷售課程、分享知識、與學生互動"
+  },
+  "smartclass": {
+    "slogan": "讓你的學生享受<br />雲端課程的美好",
+    "description": "雲端補課、線上教材、數位管理"
+  },
+  "limitless": "任何時間，任何地點，都能教學",
+  "livevideo": {
+    "title": "視訊直播",
+    "description": "讓教學與互動不再受時間空間的限制，學生有真實線下授課的體驗"
+  },
+  "liveaudio": {
+    "title": "音訊直播",
+    "description": "不想露臉、準備影片時，也可以透過聲音分享你的知識"
+  },
+  "onlinematerial": {
+    "title": "雲端教材",
+    "description": "所有教材都會在儲存在雲端空間，學生隨時隨地都能複習觀看"
+  },
+  "classshop": {
+    "title": "你專屬的知識店舖",
+    "multimedia": {
+      "title": "多樣內容形式",
+      "description": "支援直播、影片、錄音、圖文，滿足各類課程需求"
+    },
+    "marketing": {
+      "title": "人氣營銷工具",
+      "description": "品牌傳播快速獲客，持續提供課程銷量"
+    },
+    "analytics": {
+      "title": "精準資料分析",
+      "description": "隨時隨地掌握課程數據，準確經營管理"
+    }
+  },
+  "cloudclass": {
+    "title": "教室的雲端解決方案",
+    "enroll": {
+      "title": "獲得更多學生",
+      "description": "透過線上直播工具，拓展線上線下招生管道"
+    },
+    "manage": {
+      "title": "高效管理工具",
+      "description": "學生資料系統、預約、排課，提升教室經營效率"
+    },
+    "interact": {
+      "title": "彈性教學互動",
+      "description": "線上教室、線上作業、線上練習，學習更有彈性"
+    }
+  }
+}
